@@ -9,7 +9,7 @@ I have a passion for problem solving and am a lifelong learner. I'm always looki
 * 🌍  I'm based in Birmingham, AL
 * 🖥️  See my portfolio at [dmann.netlify.app](http://dmann.netlify.app)
 * ✉️  You can contact me at [damann1072@gmail.com](mailto:damann1072@gmail.com)
-* 🚀  I'm currently working on [Web3](http://github.com/ZnMind/Web3-React)
+* 🚀  I'm currently working on [My Portfolio](https://dmann.netlify.app)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects
 
