@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------
-![](https://www.codewars.com/users/ZnMind/badges/large)
+[![CodeWars](https://www.codewars.com/users/ZnMind/badges/large)](https://www.codewars.com/users/ZnMind)
 
 I have a passion for problem solving and am a lifelong learner. I'm always looking for new challenges and am eager to rise to them!
 
