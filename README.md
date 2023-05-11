@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dan Mann
 ================================================================================================================================
 
-Software Developer
+Software Developer ![](https://www.codewars.com/users/ZnMind/badges/large)
 ------------------
 
 I have a passion for problem solving and am a lifelong learner. I'm always looking for new challenges and am eager to rise to them!
