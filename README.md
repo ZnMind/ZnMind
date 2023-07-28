@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-### Codewars / LeetCode Profiles
-
 [![CodeWars](https://www.codewars.com/users/ZnMind/badges/large)](https://www.codewars.com/users/ZnMind)
 <br></br>
 [![LeetCode](https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png)](https://leetcode.com/ZnMind)
